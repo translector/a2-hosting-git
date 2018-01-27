@@ -5,6 +5,10 @@ The following relates to [A2 Hosting](http://www.a2hosting.com) but it should be
 2. Configure Git on the web host (remote)  
 3. Configure Git on your local machine
 
+### Lota
+# Uno
+#### cuatro
+
 ## Connect to your web host via SSH
 
 Remotely log in via SSH in your Terminal (or other command-line interface) using your A2 **username** and the **domain name** associated with your account. Notice that **x** should be replaced by the default port for A2 Hosting.
